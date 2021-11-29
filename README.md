@@ -5,7 +5,6 @@ It's a simple bash script that makes sure all your HBA ports are working fine:
 
 
 ```
-./check_fc_hba -h
 Usage: 
  ./check_fc_hba
    -s (speed in Gbit, default: 8)
